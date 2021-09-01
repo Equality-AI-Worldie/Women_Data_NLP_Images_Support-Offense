@@ -4,4 +4,4 @@ Texts & photos labeled of Support and Offense of Women for creating Equality AI,
 
 Shows labels: support_gen, defense_gen, offense_gen, support_women, defense_women, defense_against_women
 
-Previously data is not obtained at all about women or the abuse labels online did not classify about women accurately or at all. 
+Previously data is not obtained at all about women or the abuse labels online did not classify about women accurately. 
