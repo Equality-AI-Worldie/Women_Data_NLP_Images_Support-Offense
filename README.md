@@ -13,7 +13,7 @@ For your purposes, you will need to edit. Further, this has errors as well.
 - Train from NLP packages on the internet
 - Use an NLU tester page to see the result (attached example)
 
-Important
+Important:
 - Machines look at patterns of words, so the more data is trained, the more patterns it will recognize
 - See the perspective from the female viewpoint and well-being
 - Look at context (previous texts, texts afterwards, images, situation)
