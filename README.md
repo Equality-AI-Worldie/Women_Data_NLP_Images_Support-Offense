@@ -18,3 +18,5 @@ Important:
 - See the perspective from the female viewpoint and well-being
 - Look at context (previous texts, texts afterwards, images, situation)
 - Look at symbolism
+
+Examples - We looked at specific case examples against women, e.g., on actresses, on women driving, and other female-focused areas
