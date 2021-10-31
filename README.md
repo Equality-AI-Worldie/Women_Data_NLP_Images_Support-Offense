@@ -26,4 +26,4 @@ Important:
 Data is from Reddit and YouTube
 
 <b>Examples -</b> We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas
-- Names can be changed to <a href="https://time.com/5668738/stanford-victim-chanel-miller/">Emily Doe</a> and John <a href="https://www.merriam-webster.com/dictionary/stag"> Stag</a>
+- Names can be changed to <a href="https://www.cbsnews.com/news/know-my-name-chanel-miller-victim-impact-statement-brock-turner-emily-doe-stanford-assault-60-minutes-2019-09-04/">Emily Doe</a> and John <a href="https://www.merriam-webster.com/dictionary/stag"> Stag</a>
