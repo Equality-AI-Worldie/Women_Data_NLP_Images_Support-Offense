@@ -14,6 +14,7 @@ For your purposes, you will need to edit. Further, this has errors as well.
 - Use an NLU tester page to see the result (attached example)
 
 Important
+- Machines look at patterns of words, so the more data is trained, the more patterns it will recognize
 - Look at context
 - Look at symbolism
-- See the perspective from the female viewpoint
+- See the perspective from the female viewpoint and well-being
