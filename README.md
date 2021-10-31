@@ -25,4 +25,4 @@ Important:
 
 Data is from Reddit and YouTube
 
-Examples - We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas
+<b>Examples - We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas</b>
