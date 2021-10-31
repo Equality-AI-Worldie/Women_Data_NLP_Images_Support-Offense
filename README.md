@@ -21,6 +21,7 @@ Important:
 - Look at context (previous texts, texts afterwards, images, situation)
 - Look at symbolism
 - Look at semantics (meaning)
+- Test your results of the processing with scientific methods in the context
 
 Data is from Reddit and YouTube
 
