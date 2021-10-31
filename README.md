@@ -12,3 +12,8 @@ For your purposes, you will need to edit. Further, this has errors as well.
 - Label the Data
 - Train from NLP packages on the internet
 - Use an NLU tester page to see the result (attached example)
+
+Important
+- Look at context
+- Look at symbolism
+- See the perspective from the female viewpoint
