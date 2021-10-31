@@ -10,7 +10,7 @@ Previously data is not obtained about women or the abuse labels online did not c
 <br><br><b>Examples:</b> We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas.
 
 This is a Sample, worked on by an intern from the University of Chicago for Worldie - Social Media for Good.
-For your purposes, you will need to edit. This Sample has errors and is not perfect (requires tens of thousands of texts). 
+For your purposes, you will need to edit. This 2K+ Sample has errors and is not perfect (requires tens of thousands of texts). 
 - Collect the Data
 - Label the Data (0-1 in labeled columns)
 - Train from NLP packages on the internet
