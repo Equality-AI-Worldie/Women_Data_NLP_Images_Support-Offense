@@ -7,7 +7,7 @@
 
 Previously data is not obtained about women or the abuse labels online did not classify about women accurately. E.g., Women's Defenders and Supporters were being labeled by NLP and by Sentiment as 'offenders' from open-source datasets.
 - Part of Anti-CyberAbuse projects and Rescue Social Tech - Women (Natural Language Processing)
-<br><br><b>Examples:</b> We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas.
+<br><br><b>Examples:</b> We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, women's rights, and other female-focused areas.
 
 This is a Sample, worked on by an intern from the University of Chicago for Worldie - Social Media for Good.
 For your purposes, you will need to edit. This 2K+ Sample has errors and is not perfect (requires tens of thousands of texts). 
