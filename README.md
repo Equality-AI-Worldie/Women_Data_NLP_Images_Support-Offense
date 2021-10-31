@@ -15,6 +15,6 @@ For your purposes, you will need to edit. Further, this has errors as well.
 
 Important
 - Machines look at patterns of words, so the more data is trained, the more patterns it will recognize
-- Look at context
-- Look at symbolism
 - See the perspective from the female viewpoint and well-being
+- Look at context (previous texts, texts afterwards, images, situation)
+- Look at symbolism
