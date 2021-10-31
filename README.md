@@ -4,9 +4,9 @@ Texts & photos labeled of Support & Abuse of Women for creating Equality AI, Nat
 Done to accurately label defense of Women as "Support" and offense and defense against as "Offense." 
 
 Shows 4 labels: support_women, defense_women, offense_women, defense_against_women
+- Part of Anti-CyberAbuse projects and Rescue Social Tech - Women
 
 Previously data is not obtained about women or the abuse labels online did not classify about women accurately. E.g., Women's Defenders and Supporters were being labeled by NLP and by Sentiment as 'offenders' from open-source datasets.
-- Part of Anti-CyberAbuse projects - Women
 
 This is a Sample, worked on by an intern from the University of Chicago for Worldie - Social Media for Good.
 For your purposes, you will need to edit. This Sample has errors and is not perfect (requires tens of thousands of texts). 
