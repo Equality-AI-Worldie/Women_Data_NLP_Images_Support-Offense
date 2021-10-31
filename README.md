@@ -26,3 +26,4 @@ Important:
 Data is from Reddit and YouTube
 
 <b>Examples -</b> We looked at specific case examples against women, e.g., on actresses, on women driving, domestic abuse, and other female-focused areas
+- Names can be changed to Emily Doe and John Stag
