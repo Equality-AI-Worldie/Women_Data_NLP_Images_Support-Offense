@@ -1,9 +1,9 @@
 # Women Data ~ Labels to train NLP, NLU, Image Recognition AI with Support, Defense, Offense (YouTube & Reddit)
 
-Texts & photos labeled of Support & Abuse of Women for creating Equality AI, Natural Language Understanding, and image recognition Protections for Women on social platforms. 
+Texts & photos labeled of <b>Support & Abuse of Women</b> for creating Equality AI, Natural Language Understanding, and image recognition Protections for Women on social platforms. 
 <br>Done to accurately label defense of Women as "Support" and offense and defense against as "Offense." 
 
-Shows 4 labels: support_women, defense_women, offense_women, defense_against_women
+<b>Shows 4 labels</b>: support_women, defense_women, offense_women, defense_against_women
 - Part of Anti-CyberAbuse projects and Rescue Social Tech - Women (Natural Language Processing)
 
 Previously data is not obtained about women or the abuse labels online did not classify about women accurately. E.g., Women's Defenders and Supporters were being labeled by NLP and by Sentiment as 'offenders' from open-source datasets.
