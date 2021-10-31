@@ -18,6 +18,7 @@ Important:
 - See the perspective from the female viewpoint and well-being
 - Look at context (previous texts, texts afterwards, images, situation)
 - Look at symbolism
+- Look at semantics (meaning)
 
 Data is from Reddit and YouTube
 
