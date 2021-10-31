@@ -19,4 +19,6 @@ Important:
 - Look at context (previous texts, texts afterwards, images, situation)
 - Look at symbolism
 
+Data is from Reddit and YouTube
+
 Examples - We looked at specific case examples against women, e.g., on actresses, on women driving, and other female-focused areas
