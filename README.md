@@ -11,7 +11,7 @@ For your purposes, you will need to edit. Further, this has errors as well.
 - Collect the Data
 - Label the Data (0-1 in labeled columns)
 - Train from NLP packages on the internet
-- Use an NLU tester page to see the result (attached example)
+- Use an NLU tester page to see the result (attached example) and APIs
 
 Important:
 - Machines look at patterns of words, so the more data is trained, the more patterns it will recognize
